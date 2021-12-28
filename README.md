@@ -14,7 +14,7 @@ step 6 - Train final (BertForSequenceClassification) downstream model
 
 
 ## Citation
-'''
+I. Samenko, A. Tikhonov, B. Kozlovsky, I. P. Yamshchikov. Fine-Tuning Transformers: Vocabulary Transfer. 
 '''
 
 ## Contact
